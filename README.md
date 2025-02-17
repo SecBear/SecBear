@@ -39,7 +39,6 @@
 ### Infrastructure & Configuration
 - [NixOS HiDPI Wayland Configuration](https://github.com/Surf-Wax/nixos-wayland-hidpi)
   - Reproducible system configuration
-  - Secure display server implementation
 
 ### AI/ML Security Projects
 - [Natural Language Processing Security](https://github.com/Surf-Wax/Natural-Language-Processing)
