@@ -37,6 +37,8 @@
 - [Security-Focused Web Scraper]([link])
 
 ### Infrastructure & Configuration
+- [Nix Flake for Keeper Secrets Manager CLI](https://github.com/SecBear/nix-keeper-secrets-manager)
+- [Nix Flake for Check Point Management API python SDK](https://github.com/SecBear/nix-cp-mgmt-api-python-sdk)
 - [NixOS HiDPI Wayland Configuration](https://github.com/Surf-Wax/nixos-wayland-hidpi)
   - Reproducible system configuration
 
