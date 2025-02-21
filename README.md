@@ -9,7 +9,7 @@
   - HashiCorp Vault integration with AWS
   - Automated secrets rotation
   - Infrastructure as Code implementation
-- [Remote Access Infrastructure (Twingate)](https://github.com/Surf-Wax/twingate-terraform)
+- [Remote Access Infrastructure (Twingate)(IaC)](https://github.com/Surf-Wax/twingate-terraform)
   - Zero Trust Network Access implementation
   - Terraform automation
 - [Checkpoint Firewall Automation]([upcoming])
