@@ -46,6 +46,9 @@
 - [Natural Language Processing Security](https://github.com/Surf-Wax/Natural-Language-Processing)
 - [Stochastic Model Implementation](https://github.com/Surf-Wax/bigram-python)
 
+## 📚 Concept Practice
+- [Binary Tree in Go]()
+
 ## 🛠 Tech Stack
 - **Infrastructure:** Terraform/OpenTofu/Terragrunt, Ansible, AWS, NixOS, Cloudflare
 - **Security:** HashiCorp Vault, Tailscale, Checkpoint
