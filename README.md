@@ -1,5 +1,5 @@
 # Hi, I'm Bryce! 
-### DevSecOps Engineer | Cloud Security | Infrastructure as Code
+### Blockchain Infrastructure & DevSecOps Engineer
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brycethorpe)
 
 ## 🛡 Security & Infrastructure Automation
@@ -47,15 +47,16 @@
 - [Stochastic Model Implementation](https://github.com/Surf-Wax/bigram-python)
 
 ## 🛠 Tech Stack
-- **Infrastructure:** Terraform, Ansible, AWS, NixOS
-- **Security:** HashiCorp Vault, Twingate, Checkpoint
-- **Languages:** Python, C, Assembly, Bash
+- **Infrastructure:** Terraform/OpenTofu/Terragrunt, Ansible, AWS, NixOS, Cloudflare
+- **Security:** HashiCorp Vault, Tailscale, Checkpoint
+- **Languages:** Python, Bash, Go, Nix, C, Assembly
 - **Networking:** TCP/IP, Packet Analysis, Firewall Management
-- **Automation:** Infrastructure as Code, Security as Code
+- **Automation:** Infrastructure as Code, Security as Code, Nix
 
 ## 🎯 Current Focus
+- Broadening Computer Science fundamentals
+- Learning Golang, distributed systems and blockchain software/infrastructure
 - Expanding infrastructure automation with security best practices
 - Implementing zero-trust architecture patterns
-- Developing security compliance automation tools
 
 *Note: Some projects are in the process of being uploaded and documented.*
