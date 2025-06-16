@@ -2,6 +2,9 @@
 ### Blockchain Infrastructure & DevSecOps Engineer
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brycethorpe)
 
+## 📚 Concept Practice
+- [Binary Tree in Go]()
+
 ## 🛡 Security & Infrastructure Automation
 
 ### Cloud Security & IaC
@@ -45,9 +48,6 @@
 ### AI/ML Security Projects
 - [Natural Language Processing Security](https://github.com/Surf-Wax/Natural-Language-Processing)
 - [Stochastic Model Implementation](https://github.com/Surf-Wax/bigram-python)
-
-## 📚 Concept Practice
-- [Binary Tree in Go]()
 
 ## 🛠 Tech Stack
 - **Infrastructure:** Terraform/OpenTofu/Terragrunt, Ansible, AWS, NixOS, Cloudflare
