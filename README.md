@@ -2,7 +2,7 @@
 
 Infrastructure engineer focused on NixOS, secrets management, and reproducible systems.
 
-Currently building Blockchain infrastructure at Portal. Previously GEOINT @ USMC.
+Currently building Bitcoin infrastructure at Portal. Previously GEOINT @ USMC.
 
 ## Selected Work
 
@@ -11,7 +11,7 @@ Currently building Blockchain infrastructure at Portal. Previously GEOINT @ USMC
 - [nix-cp-mgmt-api-python-sdk](https://github.com/SecBear/nix-cp-mgmt-api-python-sdk) - flake for Check Point SDK
 
 **Infrastructure & Secrets**
-- [automated-secrets-management-poc](https://github.com/Surf-Wax/automated-secrets-management-poc) - Vault + AWS rotation
+- [vault](https://github.com/SecBear/vault) - Vault + Okta OIDC with Terraform, SOPS, Nix flake
 - [twingate-terraform](https://github.com/Surf-Wax/twingate-terraform) - zero-trust access IaC
 
 **Systems**
@@ -20,4 +20,4 @@ Currently building Blockchain infrastructure at Portal. Previously GEOINT @ USMC
 
 ## Stack
 
-Nix/NixOS, Terraform, Vault, AWS, Rust (learning), Python, Bash
+Nix/NixOS, Terraform, Vault, Kubernetes, AWS, Rust (learning), Python, Bash
