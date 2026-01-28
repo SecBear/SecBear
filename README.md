@@ -2,12 +2,6 @@
 ### Blockchain Infrastructure & DevSecOps Engineer
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brycethorpe)
 
-## 📚 Learning & Concept Practice
-### Rust
-- [Guessing Game in Rust](https://github.com/SecBear/rust-guessing-game)
-### Golang
-- [Binary Search in Go](https://github.com/SecBear/go-binary-search)
-
 ## 🛡 Security & Infrastructure Automation
 
 ### Cloud Security & IaC
