@@ -4,7 +4,7 @@ Infrastructure engineer focused on NixOS, security, and reproducible systems.
 
 Currently building blockchain infrastructure at Portal.
 
-### Current
+## Current
 
 **[nix-sandbox-mcp](https://github.com/SecBear/nix-sandbox-mcp)** — Sandboxed code execution for LLMs via MCP written in Rust and Nix
 
