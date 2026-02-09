@@ -2,7 +2,7 @@
 
 Infrastructure engineer focused on NixOS, security, and reproducible systems.
 
-Currently building Bitcoin infrastructure at Portal.
+Currently building blockchain infrastructure at Portal.
 
 ### Current
 
