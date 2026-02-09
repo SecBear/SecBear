@@ -24,4 +24,4 @@ Currently building Bitcoin infrastructure at Portal.
 
 ## Stack
 
-Nix/NixOS, Terraform, Vault, AWS, Rust, Python, Bash
+Nix/NixOS · Rust · Terraform · AWS · Vault/OpenBao · Python · Bash
