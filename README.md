@@ -2,7 +2,11 @@
 
 Infrastructure engineer focused on NixOS, secrets management, and reproducible systems.
 
-Currently building Bitcoin infrastructure at Portal. Previously GEOINT @ USMC.
+Currently building Bitcoin infrastructure at Portal.
+
+### Current
+
+**[nix-sandbox-mcp](https://github.com/SecBear/nix-sandbox-mcp)** — Sandboxed code execution for LLMs via MCP written in Rust and Nix
 
 ## Selected Work
 
@@ -20,4 +24,4 @@ Currently building Bitcoin infrastructure at Portal. Previously GEOINT @ USMC.
 
 ## Stack
 
-Nix/NixOS, Terraform, Vault, Kubernetes, AWS, Rust (learning), Python, Bash
+Nix/NixOS, Terraform, Vault, Rust, AWS, Python, Bash
