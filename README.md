@@ -1,6 +1,6 @@
 # Bryce Thorpe
 
-Infrastructure engineer focused on NixOS, secrets management, and reproducible systems.
+Infrastructure engineer focused on NixOS, security, and reproducible systems.
 
 Currently building Bitcoin infrastructure at Portal.
 
