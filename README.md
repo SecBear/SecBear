@@ -2,7 +2,7 @@
 
 Infrastructure engineer focused on NixOS, security, and agentic ai.
 
-Currently building blockchain infrastructure at Portal.
+Currently building blockchain infrastructure at Portal to Bitcoin.
 
 ## Current
 
