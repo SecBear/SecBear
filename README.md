@@ -1,26 +1,15 @@
 # Bryce Thorpe
 
-Infrastructure engineer focused on NixOS, security, and agentic ai.
+Infrastructure engineer focused on agentic AI, NixOS, security.
 
 Currently hacking on agentic workflow systems and building blockchain infrastructure at Portal to Bitcoin.
 
-## Selected Work
+## What I'm Working On
+- **[nix-sandbox-mcp](https://github.com/SecBear/nix-sandbox-mcp)** — Sandboxed code execution for LLMs (rust). Nix + bubblewrap, no Docker.
+- **sortie** — Durable AI workflow orchestration. Temporal + model-agnostic agent execution.
+- **Portal to Bitcoin** — Infrastructure, SDLC, Nix packaging, deployments. Spearheading agentic workflow adoption.
 
-**AI/Agents**
-**[nix-sandbox-mcp](https://github.com/SecBear/nix-sandbox-mcp)** — Sandboxed code execution for LLMs via MCP written in Rust and Nix
-
-**Nix/NixOS**
-- [nix-keeper-secrets-manager](https://github.com/SecBear/nix-keeper-secrets-manager) - flake for Keeper CLI
-- [nix-cp-mgmt-api-python-sdk](https://github.com/SecBear/nix-cp-mgmt-api-python-sdk) - flake for Check Point SDK
-
-**Infrastructure & Secrets**
-- [vault](https://github.com/SecBear/vault) - Vault + Okta OIDC with Terraform, SOPS, Nix flake
-- [twingate-terraform](https://github.com/Surf-Wax/twingate-terraform) - zero-trust access IaC
-
-**Systems**
-- [usloss](https://github.com/Surf-Wax/usloss) - Unix OS simulation (process isolation, scheduling)
-- [TCP client/server](https://github.com/Surf-Wax/TCP-Client-Server) - C implementation
-
-## Stack
-
-Nix/NixOS · Rust · Terraform · AWS · Vault/OpenBao · Python · Bash
+## Background
+Infrastructure security engineer. Active TS/SCI. NixOS, Rust, Terraform, AWS.
+Built zero-trust architectures, HA secrets management, and reproducible deployment systems.
+Now applying that to the agent infrastructure problem.
