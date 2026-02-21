@@ -13,3 +13,6 @@ Currently hacking on agentic workflow systems and building blockchain infrastruc
 Infrastructure security engineer. Active TS/SCI. NixOS, Rust, Terraform, AWS.
 Built zero-trust architectures, HA secrets management, and reproducible deployment systems.
 Now applying that to the agent infrastructure problem.
+
+## Contact
+[LinkedIn](https://linkedin.com/in/brycethorpe)
