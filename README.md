@@ -4,11 +4,10 @@ Infrastructure engineer focused on NixOS, security, and agentic ai.
 
 Currently hacking on agentic workflow systems and building blockchain infrastructure at Portal to Bitcoin.
 
-## Current
-
-**[nix-sandbox-mcp](https://github.com/SecBear/nix-sandbox-mcp)** — Sandboxed code execution for LLMs via MCP written in Rust and Nix
-
 ## Selected Work
+
+**AI/Agents**
+**[nix-sandbox-mcp](https://github.com/SecBear/nix-sandbox-mcp)** — Sandboxed code execution for LLMs via MCP written in Rust and Nix
 
 **Nix/NixOS**
 - [nix-keeper-secrets-manager](https://github.com/SecBear/nix-keeper-secrets-manager) - flake for Keeper CLI
