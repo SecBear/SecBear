@@ -5,7 +5,7 @@ Building production infrastructure for AI agents
 Currently hacking on agentic workflow systems.
 
 ## What I'm Working On
-- **[neuron](https://github.com/SecBear/neuron)** — Rust library for production AI agents — composable tool middleware, context compaction, MCP, sessions, and guardrails
+- **[skelegent](https://github.com/SecBear/skelegent)** — Rust library for production AI agents — composable tool middleware, context engine, distributed execution and memory
 - **[nix-sandbox-mcp](https://github.com/SecBear/nix-sandbox-mcp)** — Sandboxed code execution for LLMs (rust). Nix + bubblewrap, no Docker.
 - **sortie** — Durable AI workflow orchestration. Temporal + model-agnostic agent execution.
 
