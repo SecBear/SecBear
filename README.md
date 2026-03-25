@@ -5,7 +5,7 @@ Building production infrastructure for AI agents
 Currently hacking on agentic workflow systems.
 
 ## What I'm Working On
-- **[skelesearch](https://github.com/SecBear/skelegent)** — Intelligent context retrieval for your coding agents (rust)
+- **[skelesearch](https://github.com/SecBear/skelesearch)** — Intelligent context retrieval for your coding agents (rust)
 - **[skelegent](https://github.com/SecBear/skelegent)** — Rust library for production AI agents — composable tool middleware, context engine, execution, routing and memory
 - **[nix-sandbox-mcp](https://github.com/SecBear/nix-sandbox-mcp)** — Sandboxed code execution for LLMs (rust). Nix + bubblewrap, no Docker.
 
